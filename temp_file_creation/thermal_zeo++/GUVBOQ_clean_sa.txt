@@ -1,0 +1,3 @@
+@ /home/tdpham/software/MOFSimplify//temp_file_creation/thermal_zeo++/GUVBOQ_clean_sa.txt Unitcell_volume: 17600.1   Density: 1.43518   ASA_A^2: 1512.62 ASA_m^2/cm^3: 859.437 ASA_m^2/g: 598.836 NASA_A^2: 0 NASA_m^2/cm^3: 0 NASA_m^2/g: 0
+Number_of_channels: 1 Channel_surface_area_A^2: 1512.62  
+Number_of_pockets: 0 Pocket_surface_area_A^2: 
